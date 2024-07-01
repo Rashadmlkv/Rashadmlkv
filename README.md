@@ -1,2 +1,2 @@
 # *Rashad Malik*
-> [LinkedIn](https://www.linkedin.com/in/rashad-malikov-398101293/)
+> [LinkedIn](linkedin.com/in/rashad-malik-398101293)

@@ -1,4 +1,4 @@
-![a](https://github.com/Rashadmlkv/Rashadmlkv/hey-there.gif)
+![a](https://github.com/Rashadmlkv/Rashadmlkv/blob/main/hey-there.gif)
 
 <a href="https://www.linkedin.com/in/rashad-malik-398101293/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
